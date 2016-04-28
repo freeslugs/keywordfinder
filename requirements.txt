@@ -8,3 +8,4 @@ scikit-learn
 wikiwords 
 flask
 gunicorn
+pandas
