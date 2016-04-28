@@ -1,0 +1,10 @@
+gensim
+nltk
+numpy
+pickleshare
+requests 
+simplejson
+scikit-learn
+wikiwords 
+flask
+gunicorn
